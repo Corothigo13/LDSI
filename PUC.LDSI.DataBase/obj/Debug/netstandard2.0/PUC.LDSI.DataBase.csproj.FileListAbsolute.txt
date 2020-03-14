@@ -1,0 +1,59 @@
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CoreCompileInputs.cache
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CoreCompileInputs.cache
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+D:\_CARLOS\_PUC_Leila\Projeto Laboratorio\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CoreCompileInputs.cache
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+D:\_CARLOS\_PUC_Leila\Laboratório\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CoreCompileInputs.cache
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+E:\01-Trabalho\04 - PUC\01 Disciplinas\02 - LDSI\01 Trabalho\03 - ENTREGAS\Entrega 2\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.deps.json
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.dll
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\bin\Debug\netstandard2.0\PUC.LDSI.Domain.pdb
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csprojAssemblyReference.cache
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.AssemblyInfo.cs
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.csproj.CopyComplete
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.dll
+C:\Users\user\source\repos\leila\PUC.LDSI.DataBase\obj\Debug\netstandard2.0\PUC.LDSI.DataBase.pdb
